@@ -24,5 +24,5 @@ The easiest way to deploy this Bot
  
 CREDITS
 
-⚠️ ᴀʟʟ ᴄʀᴇᴅɪᴛs ɢᴏᴇs ᴛᴏ ɪᴛs ʀᴇsᴘᴇᴄᴛɪᴠᴇ [ᴏᴏᴡɴᴇ](https://t.me/Hunter_is_back)
+⚠️ ᴀʟʟ ᴄʀᴇᴅɪᴛs ɢᴏᴇs ᴛᴏ ɪᴛs ʀᴇsᴘᴇᴄᴛɪᴠᴇ [ᴏᴡɴᴇʀ](https://t.me/Hunter_is_back)
 
